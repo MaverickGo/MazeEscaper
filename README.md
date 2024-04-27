@@ -1,0 +1,2 @@
+# MazeEscaper
+This is a repository for my game. You main aim is to find an exit.
